@@ -7,7 +7,7 @@
 また、ホットキー（Ctrl+C の連打）や Shift+Enter による翻訳トリガーをサポートしています。
 対象 OS: Windows 10 以降
 
-ビルド済みバイナリはリリースページにあります。
+ビルド済みバイナリはリリースページにあります。( https://github.com/Drunkar/llm_translate/releases )
 
 ---
 
