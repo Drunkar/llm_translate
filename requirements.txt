@@ -1,0 +1,7 @@
+pystray
+keyboard
+openai
+pillow
+pypiwin32
+pyinstaller
+ollama
